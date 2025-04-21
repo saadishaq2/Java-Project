@@ -1,2 +1,2 @@
-# Java-Project
+# CMS-Project
 Customer Management Project
